@@ -11,7 +11,7 @@
 
 ## Work Tracker
 
-[Project Scenario](https://)
+[Project Scenario](https://github.com/xanderbilla/aws-crudder/blob/main/_docs/assets/ProPlan.md)
 
 # Contact
 
